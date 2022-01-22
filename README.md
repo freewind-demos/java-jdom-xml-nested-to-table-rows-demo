@@ -1,7 +1,9 @@
-Java JDom Query XML with XPath Demo
+Java JDom XML XSLT Transform Demo
 =====================
 
-使用XPath来查询XML的值
+使用XSLT将一个XML转换为另一种结构
+
+- XSL语法: https://www.w3schools.com/xml/xsl_intro.asp
 
 Use maven for Java.
 
