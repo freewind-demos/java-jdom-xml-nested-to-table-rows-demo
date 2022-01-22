@@ -1,4 +1,4 @@
-Java Hello World Demo
+Java JDom Parse XML Demo
 =====================
 
 Use maven for Java.
